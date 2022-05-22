@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NAYARAVIEIRA2
+- 👋 Hi, I’m  Nayara 
 - 👀 I’m interested in  conhecre e aprender mais a linguagem java.
-- 🌱 I’m currently learning  Java.
+- 🌱 I’m currently learning  Java e HTML5 
  💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
