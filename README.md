@@ -2,7 +2,7 @@
 Nayara Vieira 🍀
 Oiee ! Bem vindo ao meu Perfil 
 * Atualmente trabalho como Atendente Comercial 
-🌱Formada em ADS , Estudando JAVA
+🌱Formada em ADS , Estudante de JAVA
 💻 Conhecimento -  JAVA / HTML / LOGICA DE PROGRAMAÇÃO
 📩 Contate-me no email - nayara_vieira22@hotmail.com 
 🙂 Pronouns: ela/dela
