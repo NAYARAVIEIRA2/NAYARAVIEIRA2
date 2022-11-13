@@ -1,4 +1,6 @@
 ### Olá! Eu sou a Nayara Vieira ✋
+Formada em Analise de Desenvolvimento de Sistemas e busco minha primeira oportunidade na aréa de TI.
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-vieira-089b82214/)
 
 ![Nayara GitHub stats](https://github-readme-stats.vercel.app/api?username=NAYARAVIEIRA2&show_icons=true&theme=dracula)
